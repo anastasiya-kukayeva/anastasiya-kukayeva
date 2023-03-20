@@ -2,7 +2,7 @@
 ### I'm Nastya and I'm QA engineer👩‍💻
 _______________________________________
 ## ***There are my repositories*** 👇👇👇
-<Мастерство приходит только с практикой и не может появиться лишь в ходе чтения инструкций.
+>Мастерство приходит только с практикой и не может появиться лишь в ходе чтения инструкций.
 <!--
 **anastasiya-kukayeva/anastasiya-kukayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
