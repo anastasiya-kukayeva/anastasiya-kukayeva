@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://drive.google.com/file/d/1ZfR_j0lfGCijNlCtgP6Lww5uw7dVCigX/view?usp=share_link]
+![](C:\Users\Nastya\Downloads)
 #### I'm Nastya and I'm QA engineer👩‍💻
 
 >Мастерство приходит только с практикой и не может появиться лишь в ходе чтения инструкций.
