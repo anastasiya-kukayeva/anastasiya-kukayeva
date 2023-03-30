@@ -2,7 +2,7 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFruN3b3FJpuTEycAmv7HEvfAVJ23lwmRZgxkMTSbOqoUfDl4BKfUiMX5qSOSdHdKlc7Q&usqp=CAU)
 #### I'm Nastya and I'm QA engineer👩‍💻
 
->Мастерство приходит только с практикой и не может появиться лишь в ходе чтения инструкций.
+ > ## Мастерство приходит только с практикой и не может появиться лишь в ходе чтения инструкций.
 _______________________________________
 ### ***There are my repositories*** 👇👇👇
 
